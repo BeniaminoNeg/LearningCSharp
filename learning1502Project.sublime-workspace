@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Re",
+				"RequestMapping"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "hello.cs",
+			"settings":
+			{
+				"buffer_size": 92,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Acme.collections.cs",
+			"settings":
+			{
+				"buffer_size": 489,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Acme.collections.dll",
+			"settings":
+			{
+				"buffer_size": 8960,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "hello.exe",
+			"settings":
+			{
+				"buffer_size": 8960,
+				"encoding": "Hexadecimal",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 588.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: Install Package"
+			],
+			[
+				"install package ",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 618.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/negrinibe/Documents/Beniamino/ComandiUtili.itx.txt",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-office-information/src/main/java/com/nttdata/msa/officeinformation/bl/OfficeInformationService.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Logs/logelisa2001.log",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/consistenzefisso/GetConsistenzeFissoService.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/datiaziendali/DatiAziendaliService.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-office-information/src/main/java/com/nttdata/msa/officeinformation/dao/jpa/repository/OfficeInformationRepository.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-office-information/src/main/java/com/nttdata/msa/officeinformation/controller/ApplicationController.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-common/src/main/java/com/nttdata/msa/common/bean/ResponseBean.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-course/src/main/java/com/nttdata/msa/course/bean/vo/OfficeBean.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-common/src/main/java/com/nttdata/msa/common/CommonConstants.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-office-information/target/classes/com/nttdata/msa/officeinformation/bl/OfficeInformationService.class",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-authentication/src/main/java/com/nttdata/msa/authentication/conn/IntegrationService.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-authentication/src/main/java/com/nttdata/msa/authentication/conn/bean/CheckConnectionRequestBean.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-authentication/src/main/java/com/nttdata/msa/authentication/conn/InterfaceEnum.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-office-information/target/classes/com/nttdata/msa/officeinformation/controller/ApplicationController.class",
+		"/C/Users/negrinibe/AppData/Roaming/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/JavaScript/Learning/cliccami2.html",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/JavaScript/Learning/codice.js",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Core/src/com/nttdata/bsb/steps/common/beans/ProfileProperties.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Core/src/com/nttdata/bsb/adapters/stubs/crma/getservizicontratto/GetContrattoInfoStub.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/registrazione/upgradeutente/verify/steps/mobile/GecosGetUserLineDetailMappingStep.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/helper/CrmaServiceHelper.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/getprofilo/top/steps/CrmaGetProfileReferenteMappingStep.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/getprofilo/top/exadata/steps/CrmaGetProfileReferentePRCMappingStep.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Resources/db/backup/20140801/myc/BSB_DDL_TABS.sql",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/getprofilo/getsecondaryuserdata/exadata/steps/CrmaGetProfileReferentePRCMappingStep.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/cambiocontrattomobile/steps/CrmaGetProfileEndUserMappingStep.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Services/src/com/nttdata/bsb/services/getprofilo/is/beans/InfoContratto.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/JavaScript/cliccami2.html",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/JavaScript/cliccami2",
+		"/C/Users/negrinibe/Documents/Beniamino/Credenzialiutili.txt.txt",
+		"/C/Users/negrinibe/Documents/Beniamino/Logs/services.log",
+		"/C/Users/negrinibe/Documents/Beniamino/Logs/log_bsb/bsb.TXT",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/JavaScript/cliccami.html.txt",
+		"/C/Users/negrinibe/Documents/Beniamino/Logs/LOG/services.log",
+		"/C/Users/negrinibe/Documents/Beniamino/Pakets/LogExpert-master/LogExpert-master/.gitignore",
+		"/AdapterWork.java",
+		"/InputValidationStep.java",
+		"/C/Users/negrinibe/AppData/Roaming/Sublime Text 3/Packages/Log Highlight/Log Highlight.sublime-settings",
+		"/C/Users/negrinibe/AppData/Roaming/Sublime Text 3/Packages/User/Log Highlight.sublime-settings",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Test/src/com/nttdata/bsb/services/test/TestUtentiService.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Files/ReportGiornalieri.txt.txt",
+		"/C/Users/negrinibe/Google Drive/Sant'Agnese/eletti.txt",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Dao/src/com/nttdata/bsb/db/conf/entity/BsbInterfacciaParam.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Oepe/BSB_C11_2017/BSB-Resources/db/populate/README",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-demo-microservice/src/main/java/com/nttdata/msa/demomicroservice/controller/ApplicationController.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-demo-microservice/src/main/java/com/nttdata/msa/authentication/bl/DemoService.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/Angular/myApp/src/main.ts",
+		"/C/appl-log/bsb/logs/AdminServer/services.log",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-profile/src/main/java/com/nttdata/msa/profile/controller/ApplicationController.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-profile/src/main/java/com/nttdata/msa/profile/bl/ProfileService.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-authentication/src/main/java/com/nttdata/msa/authentication/controller/ApplicationController.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-reservation/src/main/java/com/nttdata/msa/reservation/controller/ApplicationController.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-course/src/main/java/com/nttdata/msa/course/controller/ApplicationController.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-demo-microservice/.project",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-demo-microservice/.gitignore",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-demo-microservice/readme.txt",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-demo-microservice/pom.xml",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/elisa-demo-microservice/src/main/java/com/nttdata/msa/reservation/controller/ApplicationController.java",
+		"/C/Users/negrinibe/Documents/Beniamino/Workspace/eclipse-workspace/beniademo/beniademo/src/main/java/com/example/beniademo/BeniademoApplication.java"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"infonocarta",
+			"getConsistenzeAggregateSedi",
+			"VALIDATE_id_message",
+			"officeInformationRepository",
+			"officeinformation",
+			"checkConnection",
+			"flagrif",
+			"exadatadbss",
+			"dbss",
+			"gatture",
+			"utenti/searchUsers",
+			"getProfiloTop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "hello.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								92,
+								92
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Acme.collections.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								475,
+								475
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Acme.collections.dll",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8020,
+								8020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4256.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "hello.exe",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3243.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.loghighlight":
+	{
+		"height": 158.0
+	},
+	"pinned_build_system": "",
+	"project": "learning1502Project.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
